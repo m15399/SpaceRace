@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{3762F711-77C9-45A4-D168-BE25BDB0E259}") = "_SpaceRace", "Assembly-CSharp.csproj", "{D887A4F3-7A04-6050-0605-3A06231DEA28}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D887A4F3-7A04-6050-0605-3A06231DEA28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D887A4F3-7A04-6050-0605-3A06231DEA28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D887A4F3-7A04-6050-0605-3A06231DEA28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D887A4F3-7A04-6050-0605-3A06231DEA28}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

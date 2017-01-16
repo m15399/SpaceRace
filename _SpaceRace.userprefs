@@ -1,0 +1,20 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Path.cs">
+    <Files>
+      <File FileName="Assets/Path.cs" Line="230" Column="19" />
+      <File FileName="Assets/Handle.cs" Line="1" Column="1" />
+      <File FileName="Assets/GridSquare.cs" Line="1" Column="1" />
+      <File FileName="Assets/Grid.cs" Line="1" Column="1" />
+      <File FileName="Assets/Utils.cs" Line="1" Column="1" />
+      <File FileName="Assets/MonoBehaviour2.cs" Line="1" Column="1" />
+      <File FileName="Assets/Ballistic.cs" Line="1" Column="1" />
+      <File FileName="Assets/DebugKeys.cs" Line="10" Column="20" />
+      <File FileName="Assets/ThePlayer.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
